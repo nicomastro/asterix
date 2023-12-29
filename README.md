@@ -4,7 +4,8 @@
 # Set up:
 * Download the [StylGan model](https://drive.google.com/file/d/1Y0WMfL7LFgjJy-8FbxhmS1K-YXHRNwKs/view?usp=sharing)
 * Download our [models](https://drive.google.com/file/d/1Y0WMfL7LFgjJy-8FbxhmS1K-YXHRNwKs/view?usp=sharing)
-* Unzip those files in the root directory as well as Directions.zip
+* Download our [Emotion Directions](https://drive.google.com/file/d/1J2rEOB_agwhl26byqEML4XbEZpBgDfVj/view?usp=sharing)
+* Unzip those files in the root directory
 
 # Directions:
 
