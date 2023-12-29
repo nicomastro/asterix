@@ -14,7 +14,7 @@ Alternatively, to gain more variability in the facial expression depicted by eac
 
 # Running the whole pipeline:
 
-An example run the classifier on the Cohn Kanade dataset:
+An example to run the classifier on the Cohn Kanade dataset:
 ```
 Example
 CUDA_VISIBLE_DEVICES=0 python transform_lr.py --dataset 'CK' --output_size 256 --k 10 --augment 3 --frames 3 --hpos 1 --hneg 1 --models twoDLDA
