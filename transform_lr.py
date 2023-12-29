@@ -24,7 +24,6 @@ from PIL import Image
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis as LDA
 from sklearn.decomposition import PCA
 from twodlda import *
-from LDA2D import * 
 from PIL import Image, ImageOps
 from torchvision.utils import save_image
 from sklearn.neighbors import KNeighborsClassifier
